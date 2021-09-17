@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "fsdf",
+      "email": "f@ma.com",
+      "contact": "567567",
+      "adress": "dfgdfgf",
+      "id": 7
+    },
+    {
+      "name": "lala",
+      "email": "bb@mail.com",
+      "contact": "4563363",
+      "adress": "fgdfgdfg",
+      "id": 8
+    },
+    {
+      "name": "Ester",
+      "email": "Ester@yahoo.com",
+      "contact": "0493123123123",
+      "adress": "Sydney",
+      "id": 9
+    }
+  ]
+}
